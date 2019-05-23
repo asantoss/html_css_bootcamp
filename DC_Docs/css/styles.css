@@ -34,11 +34,11 @@ blockquote {
 
 .main {
     background-color: #f4f4f4;
-    float: right;
-    margin: auto;
+    position: absolute;
+    right: 150px;
+    top: 50px;
     width: 70%;
     height: 100%;
-    padding: 50px;
 }
 
 .main-heading>span {
